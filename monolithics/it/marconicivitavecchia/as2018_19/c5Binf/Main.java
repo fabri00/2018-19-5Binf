@@ -59,9 +59,8 @@ public class Main extends JFrame {
 		super.pack();
 		super.setVisible(true);
 		 
-		System.out.println("I am a monolithics application written in Java Swing.");
 		
-		
+		//lastVersionForked
 	}
 	
 	public static void main (String[] args) {
